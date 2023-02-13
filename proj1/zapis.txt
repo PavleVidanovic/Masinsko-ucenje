@@ -1,0 +1,3 @@
+optimizacija hiperparametara - metode koje automatski nalaze hiperparametre (C)
+balans podataka, koliko approved koliko ne kvantitativno (C)
+druge tehnike, ne samo korelacija (C)
