@@ -1,0 +1,14 @@
+Dataset Name: Water Quality
+
+Link: https://www.kaggle.com/adityakadiwal/water-potability
+
+Description: This dataset contains 3276 observations with 9 input variables and 1 target variable. 
+The input variables include water quality parameters such as pH, hardness, sulfate, chloride, and other parameters. 
+The target variable indicates whether the water is potable (safe for consumption) or not. 
+This dataset is a good choice for ANN classification as it provides a real-world application 
+for classification models and is of potential interest to those in the environmental and public health industries.
+
+
+0 umesto NAN (C)
+loss funkcija, otpocetkas
+vise layera
